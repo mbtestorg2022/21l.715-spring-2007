@@ -44,14 +44,75 @@ Requirements
 Grading
 -------
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Program trade report | 20% |
-| Program trade analysis | 15% |
-| In-class discussion | 20% |
-| Annotated bibliography | 15% |
-| Discussion essay | 20% |
-| In-class participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Program trade report
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Program trade analysis
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Annotated bibliography
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion essay
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Please see [assignments]({{< baseurl >}}/pages/assignments) for more detailed instructions for the written work.
 
@@ -69,19 +130,189 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Course introduction | &nbsp; |
-| 2 | International television trading: Selling American 'culture'? | &nbsp; |
-| 3 | Economics of the trade in text | &nbsp; |
-| 4 | Local reception as response | &nbsp; |
-| 5 | Genre and 'transparency' - textual arguments for the trade in text | Program trade report due two days after Ses #5 |
-| 6 | Scheduling international content | Discussion essay due two days after Ses #6 |
-| 7 | Format trade | Program trade analysis due one day after Ses #7 |
-| 8 | Taking texts elsewhere - translation, adaptation, and subtitling | &nbsp; |
-| 9 | International texts and transnational identities | &nbsp; |
-| 10 | Alternative trade routes: Diasporic media use | &nbsp; |
-| 11 | World markets 1 - Latin America and India | In-class presentations |
-| 12 | World markets 2 - China, Egypt and the Arab World | In-class presentations |
-| 13 | World Markets 3 - Britain, Canada and Australia | In-class presentations |
-| 14 | Course review |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+International television trading: Selling American 'culture'?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Economics of the trade in text
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Local reception as response
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Genre and 'transparency' - textual arguments for the trade in text
+{{< tdclose >}}
+{{< tdopen >}}
+Program trade report due two days after Ses #5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Scheduling international content
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion essay due two days after Ses #6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Format trade
+{{< tdclose >}}
+{{< tdopen >}}
+Program trade analysis due one day after Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Taking texts elsewhere - translation, adaptation, and subtitling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+International texts and transnational identities
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative trade routes: Diasporic media use
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+World markets 1 - Latin America and India
+{{< tdclose >}}
+{{< tdopen >}}
+In-class presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+World markets 2 - China, Egypt and the Arab World
+{{< tdclose >}}
+{{< tdopen >}}
+In-class presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+World Markets 3 - Britain, Canada and Australia
+{{< tdclose >}}
+{{< tdopen >}}
+In-class presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Course review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
